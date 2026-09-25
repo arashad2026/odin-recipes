@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    /* outline: 1px solid red; */
+}
+
+.container {
+    width: 400px;
+    background-color: crimson;
+    margin: 0 auto;
+    padding: 15px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.heading, a {
+    color: blanchedalmond;
+}
+
+
+ul {
+    list-style: none;
+    padding: 2px;
+}
+
+li,a {
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: black;
+    border: 1px solid black;
+}
